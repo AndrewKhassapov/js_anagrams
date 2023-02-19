@@ -10,10 +10,10 @@ No installation necessary.
 
 ## Usage
 
-```
-anagrams("PIE"); # returns ["PIE", "PEI", "IPE", "IEP", "EPI", "EIP"]
+```javascript
+anagrams("PIE"); // Returns ["PIE", "PEI", "IPE", "IEP", "EPI", "EIP"]
 
-permutations(123); # returns [["1", "2", "3"], ["1", "3", "2"], ["2", "1", "3"], ["2", "3", "1"], ["3", "1", "2"], ["3", "2", "1"]]
+permutations(123); // Returns [["1", "2", "3"], ["1", "3", "2"], ["2", "1", "3"], ["2", "3", "1"], ["3", "1", "2"], ["3", "2", "1"]]
 ```
 
 ## Contributing
